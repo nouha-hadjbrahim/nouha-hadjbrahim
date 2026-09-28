@@ -63,11 +63,6 @@ and that is what made me want to do this for a living.
 | **STRATUS** | Student analytics platform — six ML services served through an API | Python · scikit-learn · FastAPI · Next.js |
 | **EspritTECH platform** | Academic project governance platform, containerised and deployed to production with an embeddings model | Docker · Kubernetes · REST APIs |
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nouha-hadjbrahim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nouha-hadjbrahim&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nouha-hadjbrahim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
