@@ -3,7 +3,7 @@
 - 🎓 Final-year **Computer Engineering** student at **ESPRIT**, majoring in **Cloud Computing**
 - ☁️ I build infrastructure: **OpenStack**, **Kubernetes**, **Ansible**, **Prometheus/Grafana**
 - 🤖 I like applying **ML to infrastructure** — predictive load forecasting, model deployment
-- 🌱 Currently learning **Terraform**, **ArgoCD** and **cloud security**
+- 🌱 Currently learning **Terraform**, **ArgoCD**, **AWS**, **AZURE** and **cloud security**
 - 📫 Reach me: **nouhahbhbn@gmail.com**
 
 ## 💡 About me
